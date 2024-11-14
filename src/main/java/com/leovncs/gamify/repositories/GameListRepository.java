@@ -1,6 +1,5 @@
 package com.leovncs.gamify.repositories;
 
-import com.leovncs.gamify.entities.Game;
 import com.leovncs.gamify.entities.GameList;
 import org.springframework.data.jpa.repository.JpaRepository;
 
